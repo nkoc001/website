@@ -14,7 +14,7 @@ md:
 	Rscript -e 'bookdown::render_book("index.Rmd", output_format = "bookdown::pdf_book",clean=FALSE)'
 
 install:
-	Rscript -e 'devtools::install_github("jumpingrivers/meetingsR")'
+	Rscript -e 'devtools::install_github("jhbrusergroup/website")'
 
 clean:
 	Rscript -e "bookdown::clean_book(TRUE)"

@@ -1,0 +1,15 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+# About
+
+The format for listing an R event is
+
+  * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
+
+## 2019 {-}
+
+### January
+
+  * January 15-18: [rstudio::conf](https://www.rstudio.com/conference/). Austin, USA.

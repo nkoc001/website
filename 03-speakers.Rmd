@@ -2,7 +2,7 @@
 knit: "bookdown::preview_chapter"
 ---
 
-# R-Ladies Groups
+# Speakers
 
 <!--
 Title for scraping

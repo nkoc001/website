@@ -9,10 +9,19 @@ script:
   - make html
 
 after_success:
-  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash deploy.sh
+  - bash deploy.sh
 
 notifications:
   email:
     on_success: change
     on_failure: change
 
+deploy:
+  provider: pages
+  fqdn: www.rusergroup.co.za
+  local_dir: /_book
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+    branch: master

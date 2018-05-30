@@ -2,7 +2,7 @@
 knit: "bookdown::preview_chapter"
 ---
   
-# The data
+# Events
 
 All files used to build this site can be found on the associated [GitHub](https://gitlab.com/jumpingrivers/meetingsR) 
 page.
