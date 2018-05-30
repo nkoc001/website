@@ -10,12 +10,8 @@ bookdown::gitbook:
         <div class="div-wrapper"><a href="https://www.rusergroup.co.za"><img src = "logo.png" style="width:100px;padding-left:10px"></a></div>
     edit:
       link: https://github.com/jhbrusergroup/website/edit/master/%s
-      text: "Edit"
+      text: "Improve this page"
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
   keep_tex: yes
-
-
-
-
