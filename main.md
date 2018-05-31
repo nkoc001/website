@@ -5,12 +5,11 @@ site: bookdown::bookdown_site
 documentclass: book
 link-citations: yes
 twitter-handle: jhbrusergroup
-description: "A list of R conferences and meetings."
 github-repo: jhbrusergroup/website
-url: 'https\://jhbrusergroup.github.io/website/'
+url: 'https\://www.rusergroup.co.za'
 ---
 
-# Overview
+# About
 
 ## Who are we
 We are the local R user group for Johannesburg, South Africa.
@@ -55,7 +54,7 @@ December    TBA
 * June: [Second JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/231335370/). Johannesburg, South Africa.
 * March: [First JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/228916427/). Johannesburg, South Africa.
 
-<!--chapter:end:01_our_r_events.Rmd-->
+<!--chapter:end:01-our_r_events.Rmd-->
 
 ---
 knit: "bookdown::preview_chapter"
@@ -145,13 +144,24 @@ https://www.r-consortium.org
 ## Partners
 http://datascience-africa.org
 
-<!--chapter:end:04-sponsors_and_partners.Rmd-->
+<!--chapter:end:03-sponsors_and_partners.Rmd-->
 
 ---
 knit: "bookdown::preview_chapter"
 ---
   
-# About
+# Contribute
+
+## Speakers
+
+
+<!--chapter:end:04-contribute.Rmd-->
+
+---
+knit: "bookdown::preview_chapter"
+---
+  
+# People
 Please feel free to reach out to us.
 
 ## Current user group leads
@@ -161,5 +171,5 @@ Please feel free to reach out to us.
 ## Former user group leads
 * Marko Jakovljevic [Twitter](https://twitter.com/MarchofReason)
 
-<!--chapter:end:05-about_us.Rmd-->
+<!--chapter:end:05-people.Rmd-->
 
