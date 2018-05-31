@@ -4,8 +4,8 @@ knit: "bookdown::preview_chapter"
   
 # Sponsors & Partners
 
-* Sponsors
+## Sponsors
 https://www.r-consortium.org
 
-* Partners
+## Partners
 http://datascience-africa.org
