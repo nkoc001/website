@@ -23,3 +23,5 @@ Our goal is to support and share R experiences and knowledge among its users in 
 
 ## Connect with us
 We would like to hear how you use and enjoy the R language and statistical programming environment.
+
+You can join the rest of the community on our meetup site on Meetup.com(https://www.meetup.com/Joburg-R-Users-Group/).
