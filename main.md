@@ -32,6 +32,35 @@ You can join the rest of the community on our meetup site on [Meetup.com](https:
 knit: "bookdown::preview_chapter"
 ---
 
+# Our R Events
+
+## Upcoming Events
+ * Watch this space
+
+Month       Speaker
+----------- ----------
+June        TBA
+July        TBA
+August      TBA
+September   TBA
+October     TBA
+November    TBA
+December    TBA
+
+## 2018 {-}
+* August: [Fouth JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/241169367/). Johannesburg, South Africa.
+
+## 2017 {-}
+* November: [Third JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/234647008/). Johannesburg, South Africa.
+* June: [Second JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/231335370/). Johannesburg, South Africa.
+* March: [First JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/228916427/). Johannesburg, South Africa.
+
+<!--chapter:end:01_our_r_events.Rmd-->
+
+---
+knit: "bookdown::preview_chapter"
+---
+
 # R Community Events
 
 The format for listing an R event is
@@ -128,26 +157,7 @@ More events can be found at the [RStudio Community website](https://community.rs
   * November: [EARL Boston 2016](https://earlconf.com/boston/). Boston, USA.
   * December: [European Bioconductor Developers' Meeting](http://scicore.ch/events/eurobioc2016/). Basel, Switzerland.
 
-<!--chapter:end:01-about.Rmd-->
-
----
-knit: "bookdown::preview_chapter"
----
-
-# Our R Events
-
-## Upcoming Events
- * Watch this space
-
-## 2018 {-}
-* August: [Fouth JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/241169367/). Johannesburg, South Africa.
-
-## 2017 {-}
-* November: [Third JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/234647008/). Johannesburg, South Africa.
-* June: [Second JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/231335370/). Johannesburg, South Africa.
-* March: [First JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/228916427/). Johannesburg, South Africa.
-
-<!--chapter:end:02_community_nights.Rmd-->
+<!--chapter:end:02-r_community_events.Rmd-->
 
 ---
 knit: "bookdown::preview_chapter"
