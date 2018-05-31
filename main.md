@@ -249,21 +249,13 @@ gender diversity in the R community.
 knit: "bookdown::preview_chapter"
 ---
   
-# Sponsors
+# Sponsors & Partners
 
-All files used to build this site can be found on the associated [GitHub](https://gitlab.com/jumpingrivers/meetingsR) 
-page.
+* Sponsors
+https://www.r-consortium.org
 
-Additionally, you can download a convenient CSV file of the data
-
- * Conferences: https://jumpingrivers.github.io/meetingsR/events.csv
- * User Groups: https://jumpingrivers.github.io/meetingsR/groups.csv
-
-The R scripts used to generate these CSV files are also located in the GitHub repo
-
-> https://github.com/jumpingrivers/meetingsR/tree/master/R
-
-These scripts were initially create via the [eRum competition](https://blog.jumpingrivers.com/posts/2018/jumping_rivers_erum/)
+* Partners
+http://datascience-africa.org
 
 <!--chapter:end:04-sponsors.Rmd-->
 
