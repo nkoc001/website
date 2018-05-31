@@ -134,18 +134,18 @@ More events can be found at the [RStudio Community website](https://community.rs
 knit: "bookdown::preview_chapter"
 ---
 
-# Community Nights
+# Our R Events
 
-UseR groups are listed by contintent then by country. Where appropriate, useR groups are 
-divided within country, e.g. in the USA, by state & in the United Kingdom, by member country.
+## Upcoming Events
+ * Watch this space
 
-The suggested format for listing a group is
+## 2018 {-}
+* August: [Fouth JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/241169367/). Johannesburg, South Africa.
 
-  * Town name: [Group name & link](http://www.example.com/); [\@Twitter_handle](http://www.example.com/)
-
-## Funding
-
-The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-program) provides funding for local useR groups.
+## 2017 {-}
+* November: [Third JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/234647008/). Johannesburg, South Africa.
+* June: [Second JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/231335370/). Johannesburg, South Africa.
+* March: [First JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/228916427/). Johannesburg, South Africa.
 
 <!--chapter:end:02_community_nights.Rmd-->
 
