@@ -37,16 +37,6 @@ knit: "bookdown::preview_chapter"
 ## Upcoming Events
  * Watch this space
 
-Month       Speaker
------------ ----------
-June        TBA
-July        TBA
-August      TBA
-September   TBA
-October     TBA
-November    TBA
-December    TBA
-
 ## 2018 {-}
 * August: [Fouth JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/241169367/). Johannesburg, South Africa.
 
@@ -55,7 +45,7 @@ December    TBA
 * June: [Second JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/231335370/). Johannesburg, South Africa.
 * March: [First JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/228916427/). Johannesburg, South Africa.
 
-<!--chapter:end:01_our_r_events.Rmd-->
+<!--chapter:end:02_community_nights.Rmd-->
 
 ---
 knit: "bookdown::preview_chapter"
