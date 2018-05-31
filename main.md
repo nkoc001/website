@@ -32,11 +32,13 @@ You can join the rest of the community on our meetup site on Meetup.com(https://
 knit: "bookdown::preview_chapter"
 ---
 
-# Events
+# R Community Events
 
 The format for listing an R event is
 
   * Date: [event name & link](http://www.example.com). Town, Country. [Recordings here & link](http://www.example.com) [Slides here & link](http://www.example.com)
+
+More events can be found at the [RStudio Community website](https://community.rstudio.com/c/irl)
 
 ## 2019 {-}
 
