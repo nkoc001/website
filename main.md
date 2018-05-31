@@ -5,19 +5,22 @@ site: bookdown::bookdown_site
 documentclass: book
 link-citations: yes
 twitter-handle: jhbrusergroup
-cover-image: inverse.png
 description: "A list of R conferences and meetings."
-github-repo: jumpingrivers/meetingsR
+github-repo: jhbrusergroup/website
 url: 'https\://jhbrusergroup.github.io/website/'
 ---
 
-
-# Overview
-
+# Who are we
 We are the local R user group for Johannesburg, South Africa.
-R is an open source programming language for statistical computing, data analysis, and graphical visualization (http://www.r-project.org/). R has a very huge user community worldwide, and its user base is growing exponentially. While most commonly used within academia, in fields such as computational biology and applied statistics, it is gaining currency in commercial areas such as quantitative finance and business intelligence.
 
-Our goal is to support and share R experiences and knowledge among its users in the Johannesburg community. We would like to hear how you use and enjoy the R language and statistical programming environment. We would also like to inspire new users to learn R.
+# What is R
+R is an open source programming language for statistical computing, data analysis, and graphical visualization (http://www.r-project.org/). R has a large user community worldwide, and its user base is growing exponentially. While most commonly used within academia, in fields such as computational biology and applied statistics, it is gaining currency in commercial areas such as quantitative finance and business intelligence.
+
+# Our goals
+Our goal is to support and share R experiences and knowledge among its users in the South African community. We would also like to inspire new users to learn R.
+
+# Connect with us
+We would like to hear how you use and enjoy the R language and statistical programming environment.
 
 <!--chapter:end:index.Rmd-->
 
@@ -43,6 +46,9 @@ The format for listing an R event is
 
 ## 2018 {-}
 
+### May
+  * May 31-Jun 6: [Data Science Africa 2018](http://www.datascienceafrica.org/dsa2018/). Nyeri, Kenya
+
 ### June
 
  *  June 1-2: [R/Finance 2018](http://www.rinfinance.com). Chicago, USA.
@@ -67,6 +73,7 @@ The format for listing an R event is
  * November 7: [EARL Seattle](https://earlconf.com/boston). Seattle, USA.
  * November 9: [EARL Houston](https://earlconf.com/boston). Houston, USA.
  * November 13: [EARL Boston](https://earlconf.com/boston). Boston, USA.
+ * November 12-14: [Data Science Africa 2018 Abuja](http://www.datascienceafrica.org/dsa2018abuja/). Abuja, Nigeria
 
 ## Archive - 2018 {-}
 
@@ -94,6 +101,7 @@ The format for listing an R event is
    * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/). Paris, France. 
   * July 4-7: [UseR! 2017](http://www.user2017.brussels/). Brussels, Belgium. [Recordings](https://channel9.msdn.com/events/useR-international-R-User-conferences/)
   * July 5: [Riot](http://riotworkshop.github.io/). Co-located with useR! 2017.
+  * July 17-19: [Data Science Africa 2017, Workshop and School](http://www.datascienceafrica.org/dsa2017/). Arusha, Tanzania
   * July 27-28: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/). Boston, USA.
   * September 13-15: [EARL London 2017](https://earlconf.com/london/). London, UK.
   * November 1-3: [EARL Boston 2017](https://earlconf.com/boston/). Boston, USA.
@@ -106,6 +114,7 @@ The format for listing an R event is
 
   * April: [New York R Conference 2016](http://www.rstats.nyc). New York, USA. ([Recordings here](https://www.rstats.nyc/2017/))
   * May: [R/Finance 2016](http://www.rinfinance.com). Chicago, USA.
+  * June 27 - 29: [Data Science Africa 2016, Workshop and School](http://www.datascienceafrica.org/dsa2016/). Kampala, Uganda.
   * July: [UseR! 2016](http://user2016.org/). Stanford, USA. ([Recordings here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016))
   * September: [EARL London 2016](https://earlconf.com/london/). London, UK.
   * September: [The first satRday conference](http://budapest.satrdays.org). Budapest, Hungary.
