@@ -10,7 +10,7 @@ github-repo: jhbrusergroup/website
 url: 'https\://jhbrusergroup.github.io/website/'
 ---
 
-# Welcome
+# Overview
 
 ## Who are we
 We are the local R user group for Johannesburg, South Africa.
