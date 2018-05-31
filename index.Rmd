@@ -6,8 +6,9 @@ documentclass: book
 link-citations: yes
 twitter-handle: jhbrusergroup
 description: "A list of R conferences and meetings."
+github-repo: jhbrusergroup/website
 url: 'https\://jhbrusergroup.github.io/website/'
-----
+---
 
 # Who are we
 We are the local R user group for Johannesburg, South Africa.
