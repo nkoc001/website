@@ -110,15 +110,15 @@ More events can be found at the [RStudio Community website](https://community.rs
 
   * July 9-12: [useR! 2019](http://www.user2019.fr/). Toulouse, France.
 
-# Past R Community Events Resources
+## Past R Community Events Resources
 
-## Archive - 2018 {-}
+### Archive - 2018 {-}
 
   * January 31, Feb 1-3: [rstudio::conf](https://www.rstudio.com/conference/). San Diego, USA. ([Recordings here](https://www.rstudio.com/resources/webinars/#cd2efd7cff89930bc))
   * March 17th: [SatRday](http://capetown2018.satrdays.org/). Cape Town, South Africa. ([Recordings here](https://www.youtube.com/watch?v=bVweO74kvtc&list=PLQPtslMzGu4oDr6hjKm1aQ2XN7P35vCbk))
   * May: [The European #rstats Users Meeting](http://2018.erum.io/). Budapest, Hungary.  ([Recordings here](https://www.youtube.com/watch?list=PLUBl0DoLa5SAo_XRnkQA5GtEORg9K7kMh&v=4XxOUPgs9tc))
 
-## Archive - 2017 {-}
+### Archive - 2017 {-}
 
  * January 11-14: [rstudio::conf](https://www.rstudio.com/conference/). Kissmmee, USA. ([Recordings here](https://www.rstudio.com/resources/webinars/#ed21d83e49156bae4))
   * February 16-18: [satRday](http://satrdays.org/capetown2017/). Cape Town, South Africa. ([Recordings here]())
@@ -126,7 +126,7 @@ More events can be found at the [RStudio Community website](https://community.rs
   * May 19-20: [R/Finance 2017](http://www.rinfinance.com). Chicago, USA. ([Recordings here](https://channel9.msdn.com/Events/RFinance/RFinance-2017))
   * July 4-7: [UseR! 2017](http://www.user2017.brussels/). Brussels, Belgium. [Recordings](https://channel9.msdn.com/events/useR-international-R-User-conferences/)
 
-## Archive - 2016 {-}
+### Archive - 2016 {-}
 
   * April: [New York R Conference 2016](http://www.rstats.nyc). New York, USA. ([Recordings here](https://www.rstats.nyc/2017/))
   * July: [UseR! 2016](http://user2016.org/). Stanford, USA. ([Recordings here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016))
