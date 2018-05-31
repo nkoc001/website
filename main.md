@@ -45,7 +45,7 @@ knit: "bookdown::preview_chapter"
 
 The format for listing an R event is
 
-  * Date: [event name & link](http://www.example.com). Town, Country. [recording description & link] [slides description & link]
+  * Date: [event name & link](http://www.example.com). Town, Country. [Recordings here & link](http://www.example.com) [Slides here & link](http://www.example.com)
 
 ## 2019 {-}
 
