@@ -37,6 +37,16 @@ knit: "bookdown::preview_chapter"
 ## Upcoming Events
  * Watch this space
 
+Month       Speaker
+----------- ----------
+June        TBA
+July        TBA
+August      TBA
+September   TBA
+October     TBA
+November    TBA
+December    TBA
+
 ## 2018 {-}
 * August: [Fouth JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/241169367/). Johannesburg, South Africa.
 
@@ -45,7 +55,7 @@ knit: "bookdown::preview_chapter"
 * June: [Second JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/231335370/). Johannesburg, South Africa.
 * March: [First JHB R Users Meetup!](https://www.meetup.com/Joburg-R-Users-Group/events/228916427/). Johannesburg, South Africa.
 
-<!--chapter:end:02_community_nights.Rmd-->
+<!--chapter:end:01_our_r_events.Rmd-->
 
 ---
 knit: "bookdown::preview_chapter"
@@ -266,13 +276,13 @@ knit: "bookdown::preview_chapter"
   
 # Sponsors & Partners
 
-* Sponsors
+## Sponsors
 https://www.r-consortium.org
 
-* Partners
+## Partners
 http://datascience-africa.org
 
-<!--chapter:end:04-sponsors.Rmd-->
+<!--chapter:end:04-sponsors_and_partners.Rmd-->
 
 ---
 knit: "bookdown::preview_chapter"
