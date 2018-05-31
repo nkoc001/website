@@ -66,11 +66,11 @@ The format for listing an R event is
   * May 25-26: [R à Québec 2017](http://raquebec.ulaval.ca/2017/). Québec, Canada.
   * May 25-26: [ROpenSci Unconference](https://ropensci.org/community/events.html). Los Angeles, USA.
   * May 28-Jun 2: [WOMBAT MeDaScIn 2017](http://www.datasciencemelbourne.com/medascin2017/). Melbourne, Australia.
-  * June 3: [CascadiaRconf](https://cascadiarconf.com/2017). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf)
+  * June 3: [CascadiaRconf](https://cascadiarconf.com/2017). Portland, USA.
   * June 5-7: [EARL](http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/). San Francisco, USA.
    * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/). Paris, France. 
-  * July 4-7: [UseR! 2017](http://www.user2017.brussels/). Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels) [Recordings](https://channel9.msdn.com/events/useR-international-R-User-conferences/)
-    * July 5: [Riot](http://riotworkshop.github.io/). Co-located with useR! 2017.
+  * July 4-7: [UseR! 2017](http://www.user2017.brussels/). Brussels, Belgium. [Recordings](https://channel9.msdn.com/events/useR-international-R-User-conferences/)
+  * July 5: [Riot](http://riotworkshop.github.io/). Co-located with useR! 2017.
   * July 27-28: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/). Boston, USA.
   * September 13-15: [EARL London 2017](https://earlconf.com/london/). London, UK.
   * November 1-3: [EARL Boston 2017](https://earlconf.com/boston/). Boston, USA.
