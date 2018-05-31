@@ -8,9 +8,6 @@ branches:
 script:
   - make html
 
-after_success:
-  - bash deploy.sh
-
 notifications:
   email:
     on_success: change

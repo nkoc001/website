@@ -5,12 +5,11 @@ site: bookdown::bookdown_site
 documentclass: book
 link-citations: yes
 twitter-handle: jhbrusergroup
-description: "A list of R conferences and meetings."
 github-repo: jhbrusergroup/website
-url: 'https\://jhbrusergroup.github.io/website/'
+url: 'https\://www.rusergroup.co.za'
 ---
 
-# Overview
+# About
 
 ## Who are we
 We are the local R user group for Johannesburg, South Africa.

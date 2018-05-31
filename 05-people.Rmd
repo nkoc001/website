@@ -2,7 +2,7 @@
 knit: "bookdown::preview_chapter"
 ---
   
-# About
+# People
 Please feel free to reach out to us.
 
 ## Current user group leads
