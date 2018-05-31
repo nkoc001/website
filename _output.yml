@@ -8,11 +8,10 @@ bookdown::gitbook:
         <li><a href="./">Johannesburg R User Group</a></li>
       after: |
         <div class="div-wrapper"><a href="https://www.rusergroup.co.za"><img src = "logo.png" style="width:100px;padding-left:10px"></a></div>
+        <li><a href="https://bookdown.org" target="_blank">Published with bookdown</a></li>
     edit:
       link: https://github.com/jhbrusergroup/website/edit/master/%s
       text: "Improve this page"
-    after: |
-        <li><a href="https://bookdown.org" target="_blank">Published with bookdown</a></li>
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
