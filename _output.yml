@@ -11,6 +11,8 @@ bookdown::gitbook:
     edit:
       link: https://github.com/jhbrusergroup/website/edit/master/%s
       text: "Improve this page"
+    after: |
+        <li><a href="https://bookdown.org" target="_blank">Published with bookdown</a></li>
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
