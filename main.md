@@ -10,16 +10,18 @@ github-repo: jhbrusergroup/website
 url: 'https\://jhbrusergroup.github.io/website/'
 ---
 
-# Who are we
+# Welcome
+
+## Who are we
 We are the local R user group for Johannesburg, South Africa.
 
-# What is R
+## What is R
 R is an open source programming language for statistical computing, data analysis, and graphical visualization (http://www.r-project.org/). R has a large user community worldwide, and its user base is growing exponentially. While most commonly used within academia, in fields such as computational biology and applied statistics, it is gaining currency in commercial areas such as quantitative finance and business intelligence.
 
-# Our goals
+## Our goals
 Our goal is to support and share R experiences and knowledge among its users in the South African community. We would also like to inspire new users to learn R.
 
-# Connect with us
+## Connect with us
 We would like to hear how you use and enjoy the R language and statistical programming environment.
 
 <!--chapter:end:index.Rmd-->
