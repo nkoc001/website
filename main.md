@@ -108,7 +108,7 @@ More events can be found at the [RStudio Community website](https://community.rs
 
 ### July
 
-  * July (probably): useR! 2019. Toulouse, France.
+  * July 9-12: [useR! 2019](http://www.user2019.fr/). Toulouse, France.
 
 # Past R Community Events Resources
 
