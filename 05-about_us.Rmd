@@ -1,0 +1,12 @@
+---
+knit: "bookdown::preview_chapter"
+---
+  
+# About
+
+## Current user group leads
+* Luis de Sousa
+* Michael Johnson
+
+## Former user group leads
+* Marko Jak
