@@ -177,21 +177,14 @@ http://datascience-africa.org
 knit: "bookdown::preview_chapter"
 ---
   
-# Events
+# About
 
-All files used to build this site can be found on the associated [GitHub](https://gitlab.com/jumpingrivers/meetingsR) 
-page.
+## Current user group leads
+* Luis de Sousa
+* Michael Johnson
 
-Additionally, you can download a convenient CSV file of the data
+## Former user group leads
+* Marko Jak
 
- * Conferences: https://jumpingrivers.github.io/meetingsR/events.csv
- * User Groups: https://jumpingrivers.github.io/meetingsR/groups.csv
-
-The R scripts used to generate these CSV files are also located in the GitHub repo
-
-> https://github.com/jumpingrivers/meetingsR/tree/master/R
-
-These scripts were initially create via the [eRum competition](https://blog.jumpingrivers.com/posts/2018/jumping_rivers_erum/)
-
-<!--chapter:end:05-events.Rmd-->
+<!--chapter:end:05-about_us.Rmd-->
 
