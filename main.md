@@ -128,11 +128,10 @@ knit: "bookdown::preview_chapter"
   
 # Sponsors & Partners
 
-## Sponsors
-https://www.r-consortium.org
+## Venue and Catering Sponsor
+Microsoft South Africa
 
 ## Partners
-http://datascience-africa.org
 
 <!--chapter:end:03-sponsors_and_partners.Rmd-->
 
