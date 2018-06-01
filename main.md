@@ -142,8 +142,7 @@ knit: "bookdown::preview_chapter"
   
 # Contribute
 
-## Speakers
-Call for speakers
+## Call for speakers
 
 Month       Speaker
 ----------- ----------
