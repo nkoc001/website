@@ -5,4 +5,15 @@ knit: "bookdown::preview_chapter"
 # Contribute
 
 ## Speakers
+Call for speakers
 
+Month       Speaker
+----------- ----------
+June        TBA
+July        TBA
+August      TBA
+September   TBA
+October     TBA
+November    TBA
+
+Please get in contact with either of the user group leads if you're keen.
